@@ -8,7 +8,7 @@ I'm a Lead UI Architect with my focus currently on [React](https://reactjs.org).
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Rootstrap](https://www.rootstrap.com/).
+- 🔭 I’m currently working @ [CodaDev](https://www.codadev.com) and [Sifted](https://www.sifted.com/).
 - 🌱 I’m currently working with [React](https://reactjs.org).
 - 💬 Ask me about anything!
 
