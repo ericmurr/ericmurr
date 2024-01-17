@@ -8,7 +8,7 @@ UI Architect and Full Stack Web Developer
 *   🖥️  See my portfolio at [ericmurr.com](http://www.ericmurr.com)
 *   ✉️  You can contact me at [eric@ericmurr.com](mailto:eric@ericmurr.com)
 *   🚀  I'm currently working on [ericdoescode.com](http://ericdoescode.com)
-*   🧠  I'm learning anything Javascript### Skills 
+*   🧠  I'm learning anything Javascript 
 
 Technologies
 ------------------------------
