@@ -6,8 +6,7 @@ UI Architect and Full Stack Web Developer
 
 *   🌍  I'm based in Kansas City
 *   🖥️  See my portfolio at [ericmurr.com](http://www.ericmurr.com)
-*   ✉️  You can contact me at [eric@ericmurr.com](mailto:eric@ericmurr.com)
-*   🚀  I'm currently working on [ericdoescode.com](http://ericdoescode.com)
+*   ✉️  You can contact me at [eric.murr@me.com](mailto:eric.murr@me.com)
 *   🧠  I'm learning anything Javascript 
 
 Technologies
