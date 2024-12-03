@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eric Murr
+Hi! My name is Eric Murr
 =================================================================================================================================
 
 UI Architect and Full Stack Web Developer
@@ -7,7 +7,7 @@ UI Architect and Full Stack Web Developer
 *   🌍  I'm based in Kansas City
 *   🖥️  See my portfolio at [ericmurr.com](http://www.ericmurr.com)
 *   ✉️  You can contact me at [eric.murr@me.com](mailto:eric.murr@me.com)
-*   🧠  I'm learning anything Javascript 
+*   🧠  I'm learning anything Javascript and more 
 
 Technologies
 ------------------------------
