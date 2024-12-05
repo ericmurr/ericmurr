@@ -1,4 +1,4 @@
-Hi! My name is Eric Murr
+Hi!
 =================================================================================================================================
 
 <img src="https://raw.githubusercontent.com/ericmurr/ericmurr/main/github.svg" />
