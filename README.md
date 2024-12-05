@@ -3,14 +3,6 @@ Hi! My name is Eric Murr
 
 <img src="https://raw.githubusercontent.com/ericmurr/ericmurr/main/github.svg" />
 
-Software Developer
-------------------------------
-
-*   🌍  Based in Kansas City
-*   🖥️  See my portfolio at [ericmurr.com](http://www.ericmurr.com)
-*   ✉️  Contact me at [eric.murr@me.com](mailto:eric.murr@me.com)
-*   🧠  Always learning 
-
 Socials
 ------------------------------
 
