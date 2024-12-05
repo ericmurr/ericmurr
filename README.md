@@ -1,6 +1,8 @@
 Hi! My name is Eric Murr
 =================================================================================================================================
 
+<img src="https://raw.githubusercontent.com/ericmurr/ericmurr/main/github.svg" />
+
 Software Developer
 ------------------------------
 
